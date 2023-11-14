@@ -7,5 +7,5 @@ Kelompok 12:
 3. Nadia Apsarini Baizal
 4. Alisha Tazkia Anugraha
 
-Download kedua file terlebih dahulu
+Download kedua file terlebih dahulu. 
 Jika ingin menjalankan program run file main.py
