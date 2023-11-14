@@ -2,9 +2,9 @@
 
 Dibuat untuk Tugas Besar 1 Pengenanalan Komputasi
 Kelompok 11:
-Muhammad Falih Rosyidi
-Abdul Hakim Yafi
-Nadia
-Alisha
+1. Muhammad Falih Rosyidi
+2. Abdul Hakim Yafi
+3. Nadia
+4. Alisha
 
 Untuk menjalankan program run file main.py
